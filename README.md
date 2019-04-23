@@ -33,9 +33,9 @@ http://www.bjjs.gov.cn/eportal/ui?pageId=320801&projectID=5940194&systemID=2&src
 |2015规昌建字0047|D3#住宅楼等11项（昌平区北七家镇（平西府组团土地溢价开发项目（北区）地块）二类居住、商业金融、托幼用地项目（配建限价商品住房））|无隔离||
 |绿地平面布置图2014昌绿规审字044|无隔离|||
 
-<img alt="D区建设规划" src="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/guihua.jpg" />
-<img alt="D区绿地规划" src="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/lvdi.jpg" />
-<img alt="D区叠拼涉嫌违建" src="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/weigui.jpg" />
+<img alt="D区建设规划" src="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/guihua.jpg" width="500px"/>
+<img alt="D区绿地规划" src="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/lvdi.jpg"  width="500px"/>
+<img alt="D区叠拼涉嫌违建" src="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/weigui.jpg"  width="500px"/>
 
 
 ## 相关新闻链接
