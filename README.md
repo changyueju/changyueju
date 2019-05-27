@@ -48,7 +48,7 @@ http://www.bjjs.gov.cn/eportal/ui?pageId=320801&projectID=5940194&systemID=2&src
 * 北七家镇政府只强调折中协商，不依据法律法规
 
 ## 北京城建开发商知法犯法
-* 北京城建开发商夸大宣传蒙骗商品房业主，而且知法犯法，雇佣大量黑保安强行增设附属设施
+* 2019-05-27日 北京城建开发商夸大宣传蒙骗商品房业主，而且知法犯法，雇佣大量黑保安强行增设附属设施
 视频证据列表：
 <a  target="_blank"  href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/1.mp4">视频1</a>
 <a  target="_blank"  href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/2.mp4">视频2</a>
