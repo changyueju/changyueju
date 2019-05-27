@@ -30,12 +30,12 @@ http://www.bjjs.gov.cn/eportal/ui?pageId=320801&projectID=5940194&systemID=2&src
 |《物业管理条例》(2003年6月8日中华人民共和国国务院令第379号发布 根据2007年8月26日《国务院关于修改〈物业管理条例〉的决定》第一次修订 根据 2016年2月6日《国务院关于修改部分行政法规的决定》第二次修订 根据2018年3月19日《国务院关于修改和废止部分行政法规的决定》第三次修订) | 第十一条 下列事项由业主共同决定：其中 (六)改建、重建建筑物及其附属设施; (七)有关共有和共同管理权利的其他重大事项。 |在没有建设附属设施的情况下， 物业无权自行进行增设附属设施|
 |《北京市物业管理办法》|业主相关权利 第十一条 业主对物业管理区域共用部分实施共同管理。下列事项由业主共同决定： (六)申请改建、重建建筑物及附属设施；|物业无权利自行进行增设附属设施||
 |2014规昌建字0058|D1#等3项（昌平区北七家镇（平西府组团土地一级开发项目（北区）地块）二类居住、商业金融、托幼用地项目（配建限价商品住房））|消防通道及绿化无隔离设施| 关于绿地和建设的规划图纸明确标识出绿化大小和道路走廊，无任何隔离和违法小院：<a  target="_blank"  href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/8.png">图1</a>，<a  target="_blank"  href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/9.png">图2</a>，<a  target="_blank"  href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/10.png">图3</a>|
-|2015规昌建字0047|D3#住宅楼等11项（昌平区北七家镇（平西府组团土地溢价开发项目（北区）地块）二类居住、商业金融、托幼用地项目（配建限价商品住房））|消防通道及绿化无隔离设施|北京市规委关于违建回复函|
-|绿地平面布置图2014昌绿规审字044|<a  target="_blank"  href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/1.png">消防通道及绿化无隔离设施，认定172个小院未依法经建设规划许可证</a>|||
+|2015规昌建字0047|D3#住宅楼等11项（昌平区北七家镇（平西府组团土地溢价开发项目（北区）地块）二类居住、商业金融、托幼用地项目（配建限价商品住房））|消防通道及绿化无隔离设施|<a  target="_blank"  href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/1.png">北京市规委关于北京城建龙樾华府（畅悦家园）违建回复函</a>|
+|绿地平面布置图2014昌绿规审字044|<a target="_blank" href="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/lvdi.jpg"  >消防通道及绿化无隔离设施，绿化被违建侵占</a>|||
 
 <img alt="D区建设规划" target="_blank" src="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/guihua.jpg" width="500px"/>
 <img alt="D区绿地规划" target="_blank" src="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/lvdi.jpg"  width="500px"/>
-<img alt="D区叠拼涉嫌违建" target="_blank" src="https://raw.githubusercontent.com/changyueju/changyueju/master/links/img/weigui.jpg"  width="500px"/>
+
 
 
 ## 相关新闻链接
